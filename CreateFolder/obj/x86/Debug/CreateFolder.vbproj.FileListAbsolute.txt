@@ -1,0 +1,13 @@
+G:\Proyek\Vb\CreateFolder\CreateFolder\bin\Debug\CreateFolder.exe
+G:\Proyek\Vb\CreateFolder\CreateFolder\bin\Debug\CreateFolder.pdb
+G:\Proyek\Vb\CreateFolder\CreateFolder\bin\Debug\CreateFolder.xml
+G:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\CreateFolder.vbproj.GenerateResource.Cache
+G:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\CreateFolder.exe
+G:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\CreateFolder.xml
+G:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\CreateFolder.pdb
+G:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\WindowsApplication1.Form2.resources
+G:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\CreateFolder.exe
+E:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\CreateFolder.xml
+E:\Proyek\Vb\CreateFolder\CreateFolder\obj\x86\Debug\CreateFolder.pdb
